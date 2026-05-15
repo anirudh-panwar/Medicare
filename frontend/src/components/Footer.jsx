@@ -115,7 +115,7 @@ const Footer = () => {
                 <div className={footerStyles.contactIconWrapper}>
                   <Phone className={footerStyles.contactIcon} />
                 </div>
-                <span className={footerStyles.contactText}>+91 8299431275</span>
+                <span className={footerStyles.contactText}>+91 6395250233</span>
               </div>
 
               <div className={footerStyles.contactItem}>
@@ -123,7 +123,7 @@ const Footer = () => {
                   <Mail className={footerStyles.contactIcon} />
                 </div>
                 <span className={footerStyles.contactText}>
-                  hexagonsservices@gmail.com
+                  anirudhpanwar35@gmail.com
                 </span>
               </div>
 
@@ -131,7 +131,7 @@ const Footer = () => {
                 <div className={footerStyles.contactIconWrapper}>
                   <MapPin className={footerStyles.contactIcon} />
                 </div>
-                <span className={footerStyles.contactText}>Lucknow, India</span>
+                <span className={footerStyles.contactText}>Dehradun, India</span>
               </div>
             </div>
           </div>
