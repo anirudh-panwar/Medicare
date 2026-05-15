@@ -10,7 +10,7 @@ import {
   XCircle,
 } from "lucide-react";
 
-const API_BASE = "https://medicare-backend-d1le.onrender.com";
+const API_BASE = "https://medicare-backend-p23p.onrender.com";
 const PATIENT_COUNT_API = `${API_BASE}/api/appointments/paitents/count`;
 
 // HeLPER FUNCTION

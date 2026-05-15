@@ -59,7 +59,7 @@ function dedupeAndSortSchedule(schedule = {}) {
 export default function EditProfilePage() {
   const { id } = useParams();
   const navigate = useNavigate();
-  const API_BASE = "https://medicare-backend-d1le.onrender.com";
+  const API_BASE = "https://medicare-backend-p23p.onrender.com";
 
   const [doc, setDoc] = useState(null);
   const [editing, setEditing] = useState(false);

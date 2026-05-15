@@ -18,7 +18,7 @@ import {
 import { useAuth, useUser } from "@clerk/clerk-react";
 import { Toaster } from "react-hot-toast";
 
-const API_BASE = "https://medicare-backend-d1le.onrender.com";
+const API_BASE = "https://medicare-backend-p23p.onrender.com";
 const API = axios.create({ baseURL: API_BASE });
 
 // Helper functions

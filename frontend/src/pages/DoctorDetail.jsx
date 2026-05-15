@@ -22,7 +22,7 @@ import "react-toastify/dist/ReactToastify.css";
 import { useAuth, useUser } from "@clerk/clerk-react";
 import { doctorDetailStyles } from "../assets/dummyStyles";
 
-const API_BASE = "https://medicare-backend-d1le.onrender.com";
+const API_BASE = "https://medicare-backend-p23p.onrender.com";
 
 //this function will parse date into an obj 
 function getScheduleDates(schedule) {

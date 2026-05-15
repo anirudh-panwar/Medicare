@@ -54,7 +54,7 @@ function normalizeService(doc) {
   };
 }
 
-const API_BASE = "https://medicare-backend-d1le.onrender.com";
+const API_BASE = "https://medicare-backend-p23p.onrender.com";
 
 const ServiceDashboard = ({ services: servicesProp = null }) => {
   const [services, setServices] = useState(

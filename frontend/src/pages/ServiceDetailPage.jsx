@@ -12,7 +12,7 @@ import { useAuth } from "@clerk/clerk-react";
 import toast, { Toaster } from "react-hot-toast";
 import { serviceDetailStyles, iconSize } from "../assets/dummyStyles";
 
-const DEFAULT_HOST = "https://medicare-backend-d1le.onrender.com".replace(/\/$/, "");
+const DEFAULT_HOST = "https://medicare-backend-p23p.onrender.com".replace(/\/$/, "");
 
 export default function ServiceDetail() {
   const { id } = useParams();

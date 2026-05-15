@@ -12,7 +12,7 @@ import {
 } from "lucide-react";
 
 const AddService = ({ serviceId }) => {
-  const API_BASE = "https://medicare-backend-d1le.onrender.com";
+  const API_BASE = "https://medicare-backend-p23p.onrender.com";
 
   const fileRef = useRef(null);
   const [imagePreview, setImagePreview] = useState(null);
