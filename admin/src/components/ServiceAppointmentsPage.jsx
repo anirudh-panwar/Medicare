@@ -2,7 +2,7 @@ import React, { useEffect, useMemo, useState } from "react";
 import { serviceAppointmentsStyles } from "../assets/dummyStyles";
 import { Loader2, SearchIcon, XIcon, User, Phone,BadgeIndianRupee , Calendar, Clock,CheckCircle  } from "lucide-react";
 
-const API_BASE = "http://localhost:4000";
+const API_BASE = "https://medicare-backend-d1le.onrender.com";
 // HELPERS FUNCTION
 
 function formatTwo(n) {
